@@ -7,10 +7,13 @@ This project explores cardiovascular disease (CVD) trends in Australia by integr
 
 ## Power BI Dashboard Access
 
-🔗 [Click here to open the Power BI Dashboard](https://app.powerbi.com/links/idH1By9k7b?ctid=df7f7579-3e9c-4a7e-b844-420280f53859&pbi_source=linkShare)
+[Click here to open the Power BI Dashboard](https://app.powerbi.com/links/idH1By9k7b?ctid=df7f7579-3e9c-4a7e-b844-420280f53859&pbi_source=linkShare)
 
 > **Note:** The dashboard is accessible **only to users with a Swinburne University email ID**. Please ensure you're signed in with your Swinburne credentials.
 
+### How to use:
+
+Click on the link and sign in using your swinburne credentials.
 ---
 
 ## Project Overview
@@ -42,7 +45,7 @@ COS60011_TDP/
 - Risk factor visualizations (Smoking, Alcohol, Diet, Obesity, etc.)
 - CVD risk prediction using Linear Regression
 - Risk clustering via K-Means
-- Geospatial choropleth maps and interactive slicers
+- Geospatial maps and interactive slicers
 
 ---
 
@@ -53,21 +56,6 @@ COS60011_TDP/
 - GitHub (Version control & collaboration)
 - Trello (Project management)
 - Microsoft Teams (Communication)
-
----
-
----
-
-## How to Use
-
-1. Clone the repo:
-   ```
-   git clone https://github.com/yourusername/COS60011_TDP.git
-   ```
-
-2. Open the `.pbix` file using Power BI Desktop to view the dashboard locally.
-
-3. Run Python scripts to explore data preprocessing and model generation.
 
 ---
 
